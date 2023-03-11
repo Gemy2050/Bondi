@@ -86,7 +86,7 @@ body {
   background-color: var(--section-color);
 }
 .our-work ul li {
-  padding: 8px 16px;
+  padding: 5px 10px;
   cursor: pointer;
   transition: .5s;
 }
@@ -160,11 +160,9 @@ body {
 }
 .subscribe a {
   background-color: var(--dark-color);
-  color: var(--yellow-color);
 }
 .subscribe a:hover {
   background-color: var(--dark-color);
-  color: var(--yellow-color);
 }
 /* End Subscribe */
 /* Start Footer */
@@ -180,8 +178,6 @@ body {
 .footer svg {
   width: 20px;
   height: 20px;
-  border-radius: 50%;
-  padding: 8px;
 }
 .footer .facebook {
   background-color: #1877f2;
